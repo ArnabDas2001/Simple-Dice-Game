@@ -5,3 +5,7 @@
  dice will generate a random number between 1-6. If the 1st dice generates a greater number than the 2nd dice then the 1st player will be 
  the winner else, if the 2nd dice generates a greater number than the 1st dice then the 2nd player will be the winner, in case both dice 
  generate a same number then that round will be draw.
+
+ click the link below and try it yourself 👇
+
+ https://arnabdas2001.github.io/Simple-Dice-Game/
